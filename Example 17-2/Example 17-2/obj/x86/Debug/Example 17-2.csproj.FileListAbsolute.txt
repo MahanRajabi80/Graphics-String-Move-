@@ -1,0 +1,18 @@
+C:\Users\M-H Computer\Desktop\Example 17-2\Example 17-2\bin\Debug\Example 17-2.exe
+C:\Users\M-H Computer\Desktop\Example 17-2\Example 17-2\bin\Debug\Example 17-2.pdb
+C:\Users\M-H Computer\Desktop\Example 17-2\Example 17-2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\M-H Computer\Desktop\Example 17-2\Example 17-2\obj\x86\Debug\Example_17_2.Form1.resources
+C:\Users\M-H Computer\Desktop\Example 17-2\Example 17-2\obj\x86\Debug\Example_17_2.Properties.Resources.resources
+C:\Users\M-H Computer\Desktop\Example 17-2\Example 17-2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\M-H Computer\Desktop\Example 17-2\Example 17-2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\M-H Computer\Desktop\Example 17-2\Example 17-2\obj\x86\Debug\Example 17-2.exe
+C:\Users\M-H Computer\Desktop\Example 17-2\Example 17-2\obj\x86\Debug\Example 17-2.pdb
+H:\گروه آموزشی میراث آفتاب\کتاب های من\کتابهای دانشگاهی\C#.net\Example\Part17\Example 17-2\Example 17-2\obj\x86\Debug\Example 17-2.exe
+H:\گروه آموزشی میراث آفتاب\کتاب های من\کتابهای دانشگاهی\C#.net\Example\Part17\Example 17-2\Example 17-2\obj\x86\Debug\Example 17-2.pdb
+H:\گروه آموزشی میراث آفتاب\کتاب های من\کتابهای دانشگاهی\C#.net\Example\Part17\Example 17-2\Example 17-2\bin\Debug\Example 17-2.exe
+H:\گروه آموزشی میراث آفتاب\کتاب های من\کتابهای دانشگاهی\C#.net\Example\Part17\Example 17-2\Example 17-2\bin\Debug\Example 17-2.pdb
+H:\گروه آموزشی میراث آفتاب\کتاب های من\کتابهای دانشگاهی\C#.net\Example\Part17\Example 17-2\Example 17-2\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\گروه آموزشی میراث آفتاب\کتاب های من\کتابهای دانشگاهی\C#.net\Example\Part17\Example 17-2\Example 17-2\obj\x86\Debug\Example_17_2.Form1.resources
+H:\گروه آموزشی میراث آفتاب\کتاب های من\کتابهای دانشگاهی\C#.net\Example\Part17\Example 17-2\Example 17-2\obj\x86\Debug\Example_17_2.Properties.Resources.resources
+H:\گروه آموزشی میراث آفتاب\کتاب های من\کتابهای دانشگاهی\C#.net\Example\Part17\Example 17-2\Example 17-2\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\گروه آموزشی میراث آفتاب\کتاب های من\کتابهای دانشگاهی\C#.net\Example\Part17\Example 17-2\Example 17-2\obj\x86\Debug\GenerateResource.write.1.tlog
